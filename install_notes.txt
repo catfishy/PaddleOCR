@@ -1,0 +1,9 @@
+# python 3.9
+brew install mupdf swig
+pip install paddleocr
+pip install paddlepaddle
+pip install lanms-neo
+pip install paddle2onnx
+pip install onnxruntime
+pip install https://github.com/pymupdf/PyMuPDF/archive/master.tar.gz
+pip install Pillow==9.5.0
